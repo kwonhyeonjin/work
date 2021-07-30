@@ -1,0 +1,4 @@
+header{position:relative;height:100px}header h1{position:absolute;
+    left:0;top:0}header h1 a{display:block;width:170px;height:100px;background:url(resources/images/logo2.png)no-repeat center}header 
+    .util{position:absolute;right:0;top:0;font-size:0}header 
+    .util button{line-height:100px;padding:0 20px;background-color:#ffffff;font-size:16px};

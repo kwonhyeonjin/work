@@ -1,0 +1,27 @@
+.select_number_people_contain { height: 50px; vertical-align: middle;  padding: 60px 0; border: 1px solid #ddd;}
+.select_number_people_contain ul { text-align: center; font-size: 0; height: 50px; }
+.select_number_people_contain li {display: inline-block ; line-height: 50px; margin-right: 20px;}
+.select_number_people_contain ul li > strong {margin-right: 20px;}
+.select_number_people_contain span {position: relative; display: inline-block; width: 100px; height: 40px; line-height: 40px;  border: 1px solid #ddd; border-radius: 5px;}
+.select_number_people_contain button { display: inline-block; position: absolute; top: 0; bottom: 0; width: 30px; height: 40px; line-height: 40px; font-size: 20px; background-color: transparent; }
+.select_number_people_contain button:nth-of-type(1) {left: 0; border-right: 1px solid #ddd; font-weight: 600;}
+.select_number_people_contain button:nth-of-type(2) {right: 0; border-left: 1px solid #ddd; }
+.select_number_people_contain .adult_num strong  {font-size: 15px;}
+
+.select_seats_contain {height: 600px; border: 1px solid #ddd; border-top: none;} 
+.select_seats_contain .screen { height:50px; line-height: 45px; font-size: 22px; vertical-align: top; background-color:gainsboro; color: black; text-align: center; }
+.select_seats_contain .screen_other { height: 550px; background-color: gray;}
+.select_seats_contain .screen_other > ul { display: block; width: 800px; height: 550px; padding: 120px 0 0 0; box-sizing: border-box; margin: 0 auto; }
+.select_seats_contain .screen_other .seat_col{ height: 50px; margin-bottom: 30px;}
+.select_seats_contain .screen_other .seat_col > span {font-size: 20px; color: black; margin-right: 50px; line-height: 50px; vertical-align: top;}
+.select_seats_contain .screen_other .seat_col ul {display: inline-block; height: 50px;}
+.select_seats_contain .screen_other .seat_col ul li {display: inline-block; height: 50px;}
+.select_seats_contain .screen_other .seat_col ul li:nth-of-type(3) {margin-right: 30px;}
+.select_seats_contain .screen_other .seat_col ul li:nth-of-type(8) {margin-right: 30px;}
+.select_seats_contain .screen_other .seat_col ul li a {display: inline-block; height: 50px; position: relative; }
+.select_seats_contain .screen_other .seat_col ul li a .material-icons {font-size: 50px; color: white}
+.select_seats_contain .screen_other .seat_col ul li a .material-icons.on {color: red;}
+.select_seats_contain .screen_other .seat_col ul li a span:nth-of-type(2) { position: absolute; top: 50%;  left: 50%; transform: translate(-50%,-90%);}
+
+.select_finish_btn_contain { height: 70px; text-align: center; margin: 20px 0;}
+.select_finish_btn_contain a {display: inline-block; height: 50px; line-height: 50px; padding: 10px 60px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4); border: 1px solid #ddd; border-radius: 10px; background-color: #f8f8f8; }

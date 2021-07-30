@@ -1,0 +1,8 @@
+.recommended_movie{padding-bottom:30px}.recommended_movie h2{font-size:22px;text-align:center;padding:40px 0}
+.recommended_movie img{width:300px}.swiper-slide{text-align:center}.controls{text-align:center;font-size:0;height:70px}
+.controls button{line-height:70px;background-color:transparent}.controls i{font-size:40px;line-height:70px;padding:0 30px}
+.paging{display:inline-block;line-height:70px}.paging span{margin-right:5px}.paging span:last-child{margin:0}
+.event_contain{padding-bottom:30px}.event_contain h2{font-size:22px;text-align:center;padding:40px 0}
+.event_contain ul{text-align:center;font-size:0;height:200px}.event_contain li{display:inline-block;width:25%}
+.event_contain a{display:block;width:100%;height:200px;background-size:cover}
+.event_contain li:nth-of-type(1) a{background:url(WebContent/resources/images/event_1.jpg)no-repeat center}.event_contain li:nth-of-type(2) a{background:url(/image/event_2.jpg)no-repeat center}.event_contain li:nth-of-type(3) a{background:url(/image/event_3.jpg)no-repeat center}.event_contain li:nth-of-type(4) a{background:url(/image/event_4.jpg)no-repeat center}
